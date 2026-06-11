@@ -64,8 +64,8 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-100 p-6">
-      <div className="max-w-xl mx-auto">
+    <div className="min-h-screen bg-gray-100 p-4 md:p-6">
+      <div className="w-full max-w-xl mx-auto">
 
         {/* Heading */}
         <h1 className="text-3xl font-bold text-center text-blue-600 mb-6">
